@@ -38,6 +38,7 @@ A taste of what I've been building lately - a good place to start. There's more 
 
 | Project | Why it's cool |
 | --- | --- |
+| 💸 [**visualize-my-expenses**](https://github.com/oskar-j/visualize-my-expenses) [![PyPI](https://img.shields.io/pypi/v/vme-py?color=36BCF7)](https://pypi.org/project/vme-py/) | Turn a month of budget rows into a Sankey diagram you can share as a PNG: income → budget → categories → what you actually bought. Reads CSV, JSON, Excel and bank exports (OFX, QIF, ISO 20022 camt), ~50 currencies, fully offline. `pip install vme-py` |
 | 🎯 [**thresher**](https://github.com/oskar-j/thresher) [![PyPI](https://img.shields.io/pypi/v/thresher-py?color=36BCF7)](https://pypi.org/project/thresher-py/) | Your classifier's 0.5 cut-off is almost never optimal. Thresher finds the threshold that maximizes accuracy - 7 search algorithms, pandas / Spark / Ray, library + CLI. `pip install thresher-py` |
 | 🐈 [**fastcat**](https://github.com/oskar-j/fastcat) [![PyPI](https://img.shields.io/pypi/v/fastcat?color=36BCF7)](https://pypi.org/project/fastcat/) | Lightning-fast local lookups of Wikipedia category relations (DBpedia + Redis), 7+ languages, ~20x faster loading. `pip install fastcat` |
 | 🖼️ [**walsh-hadamard-transform**](https://github.com/oskar-j/walsh-hadamard-transform) | A complete, bit-exact image codec built on a transform from the 1920s - pure Python + NumPy, 7 file formats, 700+ tests. |
